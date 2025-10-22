@@ -36,7 +36,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/demo5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
 
