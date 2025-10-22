@@ -4,7 +4,7 @@ export const calculateTotalPrice = (selectedOptions) => {
   
   Object.values(selectedOptions).forEach(option => {
     if (option && option.price) {
-      totalPrice += option.price
+      totalPrice += parseFloat(option.price) || 0 
     }
   })
   
